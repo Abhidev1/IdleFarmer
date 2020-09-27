@@ -1,0 +1,6 @@
+{
+    "farming": {
+        "enabled": false,
+        "timeout": 5
+    }
+}
